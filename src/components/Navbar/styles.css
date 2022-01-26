@@ -1,0 +1,17 @@
+.Navbar {
+  background-color: #fff;
+  border-bottom: 1px solid #dee2e6;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  padding: 0.5rem 1rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1030;
+}
+
+.Navbar_link{
+  color: #000;
+  text-decoration: none;
+  margin-right: 10px;
+  font-weight: 600;
+}
